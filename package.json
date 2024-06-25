@@ -1,8 +1,17 @@
 {
   "name": "svelte-paperscript",
-  "author": "Lucas Ng",
+  "author": "apple-phi",
   "description": "Write PaperScript directly in your Svelte components",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
+  "repository": "https://github.com/apple-phi/svelte-paperscript.git",
+  "keywords": [
+    "svelte",
+    "preprocess",
+    "paper.js",
+    "paperscript",
+    "typescript"
+  ],
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
