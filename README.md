@@ -58,4 +58,4 @@ You may not have more than one `canvas` per PaperScript component. If you need m
 
 ## Canvas configuration
 
-All Paper.js canvas configuration options (e.g. `resize`)can be set on the `<canvas>` tag as attributes. See the [Paper.js documentation](http://paperjs.org/tutorials/getting-started/working-with-paper-js/#canvas-configuration) for a list of available options.
+All Paper.js canvas configuration options (e.g. `resize`) can be set on the `<canvas>` tag as attributes. See the [Paper.js documentation](http://paperjs.org/tutorials/getting-started/working-with-paper-js/#canvas-configuration) for a list of available options.
