@@ -59,3 +59,12 @@ You may not have more than one `canvas` per PaperScript component. If you need m
 ## Canvas configuration
 
 All Paper.js canvas configuration options (e.g. `resize`) can be set on the `<canvas>` tag as attributes. See the [Paper.js documentation](http://paperjs.org/tutorials/getting-started/working-with-paper-js/#canvas-configuration) for a list of available options.
+
+## Example
+
+See the [example/](example) directory for a simple demo Svelte project. To run the example, open the directory in your terminal and run:
+
+```sh
+npm install
+npm run dev
+```
